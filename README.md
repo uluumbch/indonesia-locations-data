@@ -1,3 +1,4 @@
+<!-- GitAds-Verify: 7XJTMLTZYP7LW3H275DHD6K3ONFGJCDI -->
 # indonesia-locations-data
 CSV data of latitude and longitude data of some locations in Indonesia
 
@@ -26,3 +27,5 @@ This goes the same with approximating the lat long of districts; calculate the m
 > Disclaimer: The coordinates are approximated and I haven't got the time to check ALL the points. So, I can't guarantee the coordinates are 100% correct. But I hope it will be helpful if one needs some quick data
 
 Feel free to use it. I would also really apprecite it if you give some credits when using it. Cheers!
+
+> this code originally from [coll-j/indonesia-locations-data](https://github.com/coll-j/indonesia-locations-data). I just fill some blank data
