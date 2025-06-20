@@ -15,6 +15,11 @@ So the idea was to approximate the latitude and longitude using the mean of bord
 
 ![illustration](images/illustration-1.png)
 
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=uluumbch/indonesia-locations-data@github)](https://gitads.dev/v1/ad-track?source=uluumbch/indonesia-locations-data@github)
+
+
+
 This goes the same with approximating the lat long of districts; calculate the mean of approximated villages' lat long. Here are a couple of results from the villages data and the google maps result of approximated coordinates:
 
 ## CSV Result
